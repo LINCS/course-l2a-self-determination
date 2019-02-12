@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="100" moduleid="5883" modulename="book" contextid="19753">
+  <book id="100">
+    <name>Reflection Activities</name>
+    <intro>&lt;p&gt;session 2&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>0</numbering>
+    <customtitles>1</customtitles>
+    <timecreated>1462567882</timecreated>
+    <timemodified>1462568758</timemodified>
+    <chapters>
+      <chapter id="790">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Select the two most important factors to develop with your adult students</title>
+        <content>&lt;h1 class="Subhead"&gt;Select the two most important factors to develop with your adult students&lt;/h1&gt;
+&lt;p&gt;Now that we have reviewed ideas on how you as a service provider can promote &lt;span class="nolink"&gt;self-determination&lt;/span&gt; relating to each of the six areas, let’s reflect on how you might implement these ideas in your practice or program.&lt;/p&gt;
+&lt;p&gt;First, consider all six factors affecting an individual’s ability to be self-determined. Then answer the following question for yourself: &lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;b&gt;If you had to identify two factors that you think are the most important to develop in the adults with whom you work, what would those factors be?&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Write down the two critical factors you chose. Click the &lt;b&gt;forward arrow&lt;/b&gt; when you are ready to proceed.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Tree_normal.jpg" width="546" height="444" alt="Background image of a tree with the following labels scattered on top of it: Gain Self-Awareness; Learn to Value Yourself; Plan; Be Proactive; Reflect &amp;amp; Readjust; Environment. Graphic title: “Factors Contributing to Self-Determination.”" /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1463422167</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="791">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Share your ideas for developing self-determination in adults with LD</title>
+        <content>&lt;h1 class="Subhead"&gt;Share your ideas for developing &lt;span class="nolink"&gt;self-determination&lt;/span&gt; in adults with LD&lt;/h1&gt;
+&lt;p&gt;Now, we ask you to consider one or more ways of developing &lt;span class="nolink"&gt;self-determination&lt;/span&gt; that you might be able to incorporate into your work with adults having learning disabilities.&lt;/p&gt;
+&lt;p&gt;We encourage you to focus on ideas relating to one or more of the factors you just identified as most important for the adults with whom you work. Refer to the ideas you highlighted earlier for supporting adults with LD in developing &lt;span class="nolink"&gt;self-determination&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;Please share the ideas and/or strategies for fostering &lt;span class="nolink"&gt;self-determination&lt;/span&gt;, and read other teachers’ responses in the &lt;a href="https://community.lincs.ed.gov/discussion/online-course-learning-achieve-self-determination-adults-learning-disabilities" target="_blank"&gt;LINCS Disabilities in Adult Education Group&lt;/a&gt; before moving on.&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;span style="color: #800000;"&gt;Continue on to the Course Conclusion&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1463422108</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

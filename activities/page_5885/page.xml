@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1364" moduleid="5885" modulename="page" contextid="19755">
+  <page id="1364">
+    <name>Course Evaluation</name>
+    <intro>&lt;p&gt;eval test - may 2016&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;h1 style="text-align: left;"&gt;&lt;b&gt;Course Evaluation&lt;/b&gt;&lt;/h1&gt;
+&lt;p style="text-align: left;"&gt;Thank you for choosing LINCS for your professional development training. &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;We want to know about your LINCS’ training experience. We will use your feedback to improve our trainings and offerings.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;It typically takes 5 minutes to complete the survey. Your answers are completely anonymous and will be analyzed in combination with the answers of other course takers.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Click here to start the survey: &lt;a href="http://s-7dcb1a-i.sgizmo.com/s3/i-LyjLejHOqDacJ6D38-1771313" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;amp;q=http://s-7dcb1a-i.sgizmo.com/s3/i-LyjLejHOqDacJ6D38-1771313&amp;amp;source=gmail&amp;amp;ust=1490371603497000&amp;amp;usg=AFQjCNG17eE-Gv4LGhhoo6RD-0S_k4ebjA"&gt;http://s-7dcb1a-i.sgizmo.com/s&lt;wbr /&gt;3/i-LyjLejHOqDacJ6D38-1771313&lt;/a&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;We appreciate your time and input.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;The LINCS Team&lt;/p&gt;
+&lt;p style="text-align: left;"&gt; &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #993300;"&gt;Return to the Self-Determination &lt;a href="$@COURSEVIEWBYID*157@$"&gt;course home page&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>11</revision>
+    <timemodified>1490289180</timemodified>
+  </page>
+</activity>

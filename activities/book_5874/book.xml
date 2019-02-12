@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="91" moduleid="5874" modulename="book" contextid="19744">
+  <book id="91">
+    <name>Self-Determination</name>
+    <intro>&lt;p&gt;session 1&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>0</numbering>
+    <customtitles>1</customtitles>
+    <timecreated>1462567882</timecreated>
+    <timemodified>1462568477</timemodified>
+    <chapters>
+      <chapter id="739">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Meaning of self-determination for adults with LD</title>
+        <content>&lt;h1 class="Subhead"&gt;Meaning of &lt;span class="nolink"&gt;self-determination&lt;/span&gt; for adults with LD&lt;/h1&gt;
+&lt;p&gt;Our first guiding question asks:&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;What does it mean for an adult with LD to be self-determined?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;We’ll address this question by examining the component parts of &lt;span class="nolink"&gt;self-determination&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Q1-teacher%20and%20studentSM.jpg" width="450" height="529" alt="Photo of a male teacher with a young adult male student discussing a document." /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462817023</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="740">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Six factors contributing to self-determination</title>
+        <content>&lt;h1 class="Subhead"&gt;Six factors contributing to &lt;span class="nolink"&gt;self-determination&lt;/span&gt;&lt;/h1&gt;
+&lt;p&gt;We will explore &lt;span class="nolink"&gt;self-determination&lt;/span&gt; by considering the six factors presented on this slide that affect an individual’s ability to be self-determined. Self determined individuals know how to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;gain self-awareness;&lt;/li&gt;
+&lt;li&gt;learn to value oneself;&lt;/li&gt;
+&lt;li&gt;plan;&lt;/li&gt;
+&lt;li&gt;be proactive;&lt;/li&gt;
+&lt;li&gt;reflect and readjust; and&lt;/li&gt;
+&lt;li&gt;adjust their environment.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Tree_normal.jpg" width="546" height="444" alt="Background image of a tree with the following labels scattered on top of it: Gain Self-Awareness; Learn to Value Yourself; Plan; Be Proactive; Reflect &amp;amp; Readjust; Environment. Graphic title: “Factors Contributing to Self-Determination.”" /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462825517</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="741">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Self-determination movement is rooted in self-understanding and self-appreciation</title>
+        <content>&lt;h1 class="Subhead"&gt;Self-determination movement is rooted in self-understanding and self-appreciation&lt;/h1&gt;
+&lt;p&gt;The &lt;span class="nolink"&gt;self-determination&lt;/span&gt; movement in disability studies is particularly relevant to adults with LD because it is &lt;i&gt;rooted&lt;/i&gt; in self-understanding and self-appreciation, two challenges we noted previously that are often faced by individuals with LD.&lt;/p&gt;
+&lt;p&gt;We will begin our exploration of self-determination by examining &lt;b&gt;self-awareness&lt;/b&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Tree_2selected_w_roots.jpg" width="550" height="450" alt="Background image of a tree with two labels on top: Gain Self-Awareness; Learn to Value Yourself. Graphic title: “Factors Contributing to Self-Determination.”" /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #993300;"&gt;Continue on to Gaining Self-Awareness&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1468356463</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1365" moduleid="5887" modulename="page" contextid="19757">
+  <page id="1365">
+    <name>Course Resources</name>
+    <intro>&lt;p&gt;resources&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;h1 class="Subhead" style="text-align: left;"&gt;Course Resources&lt;/h1&gt;
+&lt;p style="text-align: left;"&gt;These resources are good sources of more in-depth knowledge of the concepts and practices taught in this course. Use the resources to apply the concepts and to expand your knowledge of integrating the science practices into your adult education classroom.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt; &lt;/p&gt;
+&lt;h2 style="text-align: left;"&gt;&lt;b&gt;Resources and References&lt;/b&gt;&lt;/h2&gt;
+&lt;p style="text-align: left;"&gt;Field. S, &amp;amp; Hoffman, A. (1994). Development of a model for &lt;span class="nolink"&gt;self-determinatio&lt;/span&gt;n. &lt;i&gt;Career Development for Exceptional Individuals&lt;/i&gt;, 17(2), 159-169. doi:10.1177/088572889401700205&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Field, S. (2005, September). &lt;i&gt;&lt;span class="nolink"&gt;Self-determination&lt;/span&gt;: What is it? Why is it beneficial? How is it best taught?&lt;/i&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Field, S., Martin, J., Miller, R., Ward, M., &amp;amp; Wehmeyer M. &lt;i&gt;A practical guide to teaching &lt;span class="nolink"&gt;self-determination&lt;/span&gt;&lt;/i&gt;. Reston, VA: Council for Exceptional Children.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Gerber, P.J. (2009). Impact of learning disabilities. In J.M. Taymans (Ed.), &lt;i&gt;Learning to achieve: A review of the research literature on serving adults with learning disabilities&lt;/i&gt;. Washington, DC: National Institute for Literacy.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Gerber, P.J. (2009). Transition and adults with learning disabilities. In J.M. Taymans (Ed.), &lt;i&gt;Learning to achieve: A review of the research literature on serving adults with disabilities&lt;/i&gt;. Washington, DC: National Institute for Literacy.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;National Center on Learning Disabilities (n.d.). &lt;span class="nolink"&gt;Self-determinatio&lt;/span&gt;n. New York, NY: Author.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;National Institute for Literacy. (2010). Learning to Achieve: A professional’s guide to educating adults with learning disabilities, Washington, DC 20006. &lt;/p&gt;
+&lt;p style="text-align: left;"&gt; &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #800000;"&gt;To print your certificate, please return to the &lt;a href="$@COURSEVIEWBYID*157@$"&gt;&lt;span style="color: #800000;"&gt;course home page&lt;/span&gt;.&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>4</revision>
+    <timemodified>1469560987</timemodified>
+  </page>
+</activity>
